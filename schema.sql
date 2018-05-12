@@ -1,0 +1,6 @@
+DROP DATABASE IF EXISTS banks_adminDB;
+
+CREATE DATABASE banks_adminDB;
+
+
+

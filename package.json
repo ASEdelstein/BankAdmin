@@ -1,0 +1,17 @@
+{
+  "name": "BankAdmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express-handlebars": "^3.0.0",
+    "handlebars": "^4.0.11",
+    "sequelize": "^4.37.7"
+  }
+}
